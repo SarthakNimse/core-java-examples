@@ -45,6 +45,7 @@ public class EventManagement {
 
         System.out.println("Enter Contact Information ");
         String contactInfo = sc.nextLine();
+        
 
         Organizer details = new Organizer();
         details.organizerId=organizerId;
