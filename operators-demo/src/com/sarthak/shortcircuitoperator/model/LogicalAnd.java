@@ -1,4 +1,4 @@
-package com.sarthak.logical.model;
+package com.sarthak.shortcircuitoperator.model;
 
 import java.util.Scanner;
 
